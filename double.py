@@ -4,7 +4,7 @@
     by Allen Downey
     http://thinkpython2.com
 
-    This is to complete the exercises in Chapter 16: Classes and Functiosn in Think Python 2
+    This is to complete the exercises in Chapter 16: Classes and Functions in Think Python 2
     
     Note: Using Python 3.9.0
 """
